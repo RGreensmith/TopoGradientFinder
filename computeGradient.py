@@ -6,11 +6,11 @@ def computeGradient(h1,h2,spatialRes):
 
     Args:
 
-    h1 = elevation 1
+    h1 : elevation 1
 
-    h2 = elevation 2
+    h2 : elevation 2
 
-    spatialRes = spatial resolution (metres squared)
+    spatialRes : spatial resolution (metres squared)
 
 
     Returns: inverse tan of theta (unit = degrees)
